@@ -1,4 +1,5 @@
 Copyright 2014 - The CyanogenMod Project
+========================================
 
 Device configuration for BCM21553 devices (especially for cori)
 
